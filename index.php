@@ -1,2 +1,2 @@
 <?php
-echo "welcome to chat-app";
+echo "welcome to chat-app mohahahahha";
